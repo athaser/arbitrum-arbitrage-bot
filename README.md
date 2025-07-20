@@ -1,5 +1,11 @@
 # 🤖 Arbitrum Arbitrage Bot
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![Platform](https://img.shields.io/badge/Platform-Arbitrum%20One-lightgrey?logo=ethereum)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![MetaMask](https://img.shields.io/badge/Wallet-MetaMask-orange?logo=metamask)
+![Status](https://img.shields.io/badge/Status-Experimental-red)
+
 This project contains a real-time arbitrage bot designed for a specific trading pair: **MAGIC/USDC** on the Arbitrum network.  
 It identifies profitable price differences between Uniswap V3 and SushiSwap and executes atomic swaps via a custom smart contract.
 
